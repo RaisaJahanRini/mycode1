@@ -1,26 +1,68 @@
 [
     {
-      "name": "Raisa",
-      "species" : "Human",
+      "name": "Meowsy",
+      "species": "cat",
       "foods": {
-        "likes": ["Burger", "Chips"],
-        "dislikes": ["Fish", "Vegetable"]
+        "likes": ["tuna", "catnip"],
+        "dislikes": ["ham", "zucchini"]
       }
     },
     {
       "name": "Barky",
-      "species" : "dog",
+      "species": "dog",
       "foods": {
         "likes": ["bones", "carrots"],
         "dislikes": ["tuna"]
       }
     },
+   
+    
     {
-      "name": "Purrpaws",
-      "species" : "cat",
+      "name": "Shadow",
+      "species": "cat",
       "foods": {
-        "likes": ["mice"],
-        "dislikes": ["cookies"]
+        "likes": ["salmon", "milk"],
+        "dislikes": ["citrus fruits"]
+      }
+    },
+    {
+      "name": "Fido",
+      "species": "dog",
+      "foods": {
+        "likes": ["peanut butter", "chicken"],
+        "dislikes": ["grapes", "onions"]
+      }
+    },
+    {
+      "name": "Whiskers",
+      "species": "cat",
+      "foods": {
+        "likes": ["cheese", "tuna"],
+        "dislikes": ["bread"]
+      }
+    },
+    {
+      "name": "Spike",
+      "species": "hedgehog",
+      "foods": {
+        "likes": ["insects", "apples"],
+        "dislikes": ["grapes"]
+      }
+    },
+    {
+      "name": "Sparky",
+      "species": "dog",
+      "foods": {
+        "likes": ["bones", "rice"],
+        "dislikes": ["avocado"]
+      }
+    },
+    {
+      "name": "Mittens",
+      "species": "cat",
+      "foods": {
+        "likes": ["fish", "yogurt"],
+        "dislikes": ["raw vegetables"]
       }
     }
   ]
