@@ -1,68 +1,70 @@
 [
-    {
-      "name": "Meowsy",
-      "species": "cat",
-      "foods": {
-        "likes": ["tuna", "catnip"],
-        "dislikes": ["ham", "zucchini"]
-      }
-    },
-    {
-      "name": "Barky",
-      "species": "dog",
-      "foods": {
-        "likes": ["bones", "carrots"],
-        "dislikes": ["tuna"]
-      }
-    },
-   
-    
-    {
-      "name": "Shadow",
-      "species": "cat",
-      "foods": {
-        "likes": ["salmon", "milk"],
-        "dislikes": ["citrus fruits"]
-      }
-    },
-    {
-      "name": "Fido",
-      "species": "dog",
-      "foods": {
-        "likes": ["peanut butter", "chicken"],
-        "dislikes": ["grapes", "onions"]
-      }
-    },
-    {
-      "name": "Whiskers",
-      "species": "cat",
-      "foods": {
-        "likes": ["cheese", "tuna"],
-        "dislikes": ["bread"]
-      }
-    },
-    {
-      "name": "Spike",
-      "species": "hedgehog",
-      "foods": {
-        "likes": ["insects", "apples"],
-        "dislikes": ["grapes"]
-      }
-    },
-    {
-      "name": "Sparky",
-      "species": "dog",
-      "foods": {
-        "likes": ["bones", "rice"],
-        "dislikes": ["avocado"]
-      }
-    },
-    {
-      "name": "Mittens",
-      "species": "cat",
-      "foods": {
-        "likes": ["fish", "yogurt"],
-        "dislikes": ["raw vegetables"]
-      }
+  
+  {
+    "name": "Flappy",
+    "species": "bird",
+    "foods": {
+      "likes": ["seeds", "berries"],
+      "dislikes": ["chocolate", "chips"]
     }
-  ]
+  },
+  {
+    "name": "Snappy",
+    "species": "turtle",
+    "foods": {
+      "likes": ["lettuce", "worms"],
+      "dislikes": ["bread", "meat"]
+    }
+  },
+  {
+    "name": "Hoppy",
+    "species": "rabbit",
+    "foods": {
+      "likes": ["carrots", "lettuce"],
+      "dislikes": ["potatoes", "onions"]
+    }
+  },
+  {
+    "name": "Goldy",
+    "species": "fish",
+    "foods": {
+      "likes": ["flakes", "worms"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Scaley",
+    "species": "lizard",
+    "foods": {
+      "likes": ["insects", "vegetables"],
+      "dislikes": ["fruit", "grains"]
+    }
+  },
+  {
+    "name": "Chirpy",
+    "species": "bird",
+    "foods": {
+      "likes": ["sunflower seeds", "fruit"],
+      "dislikes": ["spicy food"]
+    }
+  },
+  
+  {
+    "name": "Whiskers",
+    "species": "cat",
+    "foods": {
+      "likes": ["cheese", "tuna"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Spike",
+    "species": "hedgehog",
+    "foods": {
+      "likes": ["insects", "apples"],
+      "dislikes": ["grapes"]
+    }
+  },
+  
+  
+]
