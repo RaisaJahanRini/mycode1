@@ -1,0 +1,98 @@
+[
+  
+    {
+      "creature_id": "A01",
+      "name": "Flora",
+      "type": "Fauna",
+      "species": "Hummingbird",
+      "preferences": {
+        "favorites": ["nectar", "pollen", "flower sap"],
+        "avoidance": ["salt", "citrus"]
+      },
+      "habitat": "Tropical forests",
+      "traits": ["swift", "vibrant", "delicate"]
+    },
+    {
+      "creature_id": "A02",
+      "name": "Pipkin",
+      "type": "Burrower",
+      "species": "Prairie Dog",
+      "preferences": {
+        "favorites": ["grasses", "roots", "wildflowers"],
+        "avoidance": ["spicy herbs", "dried plants"]
+      },
+      "habitat": "Open grasslands",
+      "traits": ["social", "playful", "alert"]
+    },
+    {
+      "creature_id": "A03",
+      "name": "Glimmer",
+      "type": "Aquatic",
+      "species": "Betta Fish",
+      "preferences": {
+        "favorites": ["brine shrimp", "algae", "bloodworms"],
+        "avoidance": ["cooked food", "oily substances"]
+      },
+      "habitat": "Shallow freshwater pools",
+      "traits": ["colorful", "territorial", "graceful"]
+    },
+    {
+      "name": "Goldy",
+      "species": "fish",
+      "foods": {
+        "likes": ["flakes", "worms"],
+        "dislikes": ["bread"]
+      }
+    },
+    {
+      "creature_id": "A04",
+      "name": "Dart",
+      "type": "Scurrier",
+      "species": "Weasel",
+      "preferences": {
+        "favorites": ["small rodents", "eggs", "frogs"],
+        "avoidance": ["bitter roots", "grains"]
+      },
+      "habitat": "Woodlands and meadows",
+      "traits": ["agile", "cunning", "curious"]
+    },
+    {
+      "creature_id": "A05",
+      "name": "Pebble",
+      "type": "Stone-ling",
+      "species": "Armadillo",
+      "preferences": {
+        "favorites": ["ants", "termite larvae", "earthworms"],
+        "avoidance": ["processed food", "sweets"]
+      },
+      "habitat": "Arid and semi-arid regions",
+      "traits": ["armored", "resilient", "shy"]
+    },
+    
+    {
+      "creature_id": "A06",
+      "name": "Fizz",
+      "type": "Flutterkin",
+      "species": "Butterfly",
+      "preferences": {
+        "favorites": ["nectar", "ripe fruit", "tree sap"],
+        "avoidance": ["vegetables", "wood"]
+      },
+      "habitat": "Flower-filled meadows",
+      "traits": ["delicate", "colorful", "tranquil"]
+    },
+    {
+      "creature_id": "A07",
+      "name": "Wisp",
+      "type": "Night-dweller",
+      "species": "Owl",
+      "preferences": {
+        "favorites": ["mice", "frogs", "insects"],
+        "avoidance": ["bright lights", "noisy areas"]
+      },
+      "habitat": "Dense forests",
+      "traits": ["silent", "nocturnal", "wise"]
+    }
+    
+    
+  ]
